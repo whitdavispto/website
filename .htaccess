@@ -1,0 +1,13 @@
+## Interanally add the .php extension
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L] 
+
+
+RewriteRule ^index.html / [L,R=301]
+RewriteRule ^Fundraisers.htm /fundraisers [L,R=301]
+RewriteRule ^Committees.htm /committees [L,R=301]
+RewriteRule ^PTO%20Minutes.htm /minutes [L,R=301]
+
+

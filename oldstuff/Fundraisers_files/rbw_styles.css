@@ -1,0 +1,72 @@
+BODY {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND: url(images/back.gif) #aaa repeat-x; PADDING-TOP: 20px
+}
+H2 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT: 14px Arial; COLOR: #c00; PADDING-TOP: 0px
+}
+P {
+	MARGIN-TOP: 10px; TEXT-INDENT: 15px; FONT: 12px/200% Arial; MARGIN-BOTTOM: 10px; COLOR: #aaa
+}
+H1 {
+	FONT: 32px Arial; MARGIN-BOTTOM: 10px; COLOR: #000
+}
+H1 STRONG {
+	COLOR: #c00; FONT-WEIGHT: normal
+}
+A {
+	BORDER-BOTTOM: #5586dd 1px dotted; COLOR: #5586dd; TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: #eee
+}
+IMG#logo {
+	FLOAT: right
+}
+DIV#logoBack {
+	WIDTH: 883px; BACKGROUND: url(images/logo_back.png) no-repeat; HEIGHT: 188px
+}
+DIV#logoText {
+	PADDING-LEFT: 80px; FONT: 50px Arial; COLOR: #fff; PADDING-TOP: 60px
+}
+DIV#logoEqu {
+	PADDING-LEFT: 120px; FONT: 18px Arial; COLOR: #fff
+}
+DIV#mainMenu {
+	TEXT-ALIGN: center; WIDTH: 883px; BACKGROUND: url(images/text_back.gif) repeat-y; HEIGHT: 60px
+}
+DIV#mainMenu A {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; PADDING-BOTTOM: 7px; TEXT-TRANSFORM: uppercase; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FONT: bold 14px Arial; BACKGROUND: #064789; COLOR: #fff; MARGIN-LEFT: 10px; BORDER-TOP: 0px; MARGIN-RIGHT: 10px; BORDER-RIGHT: 0px; TEXT-DECORATION: none; PADDING-TOP: 7px
+}
+DIV#mainMenu A:hover {
+	POSITION: relative; COLOR: #aaf; BORDER-TOP: #064789 5px solid; TOP: 5px
+}
+DIV#contentLayout {
+	WIDTH: 883px; BACKGROUND: url(images/text_back.gif) repeat-y
+}
+TABLE#layout {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+TABLE#layout TD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#contentMenu {
+	PADDING-BOTTOM: 30px; WIDTH: 214px; BACKGROUND: url(images/con_menu_up.gif) #ddd no-repeat; MARGIN-LEFT: 6px; PADDING-TOP: 30px
+}
+DIV#contentMenu A {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 8px; TEXT-TRANSFORM: uppercase; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: block; FONT: bold 12px Arial; COLOR: #c00; BORDER-TOP: 0px; BORDER-RIGHT: 0px; TEXT-DECORATION: none; PADDING-TOP: 8px
+}
+DIV#contentMenu A:hover {
+	BACKGROUND: #c2d1de; COLOR: #00c
+}
+DIV.contentText {
+	PADDING-BOTTOM: 20px; MARGIN-TOP: 20px; WIDTH: 214px; FONT: 12px Arial; BACKGROUND: url(images/con_menu_up.gif) #ddd no-repeat; COLOR: #777; MARGIN-LEFT: 6px; PADDING-TOP: 20px
+}
+DIV.contentText P {
+	PADDING-BOTTOM: 5px; TEXT-INDENT: 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT: 12px/180% Arial; COLOR: #777; PADDING-TOP: 0px
+}
+DIV#content {
+	PADDING-BOTTOM: 30px; WIDTH: 570px; MARGIN-LEFT: 50px
+}
+DIV#end {
+	TEXT-ALIGN: center; WIDTH: 883px; FONT: 10px Arial; MARGIN-BOTTOM: 30px; BACKGROUND: url(images/end_back.gif) no-repeat; HEIGHT: 57px; COLOR: #aaa
+}
