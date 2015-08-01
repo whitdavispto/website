@@ -33,7 +33,7 @@
 
 
 <div id="footer">
-    Website maintained by Brian Whigham and hosted by RoundSphere, LLC
+    Website maintained by Brian Whigham and hosted by RoundSphere, LLC.  <a href="http://deploybot.com"><img src="https://whitdavispto.deploybot.com/badge/02267418001293/40031.svg" alt="Deployment status from DeployBot"></a>
 </div>
 </body>
 </html>
