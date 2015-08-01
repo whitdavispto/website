@@ -12,7 +12,8 @@
 <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=6bgkmcmfq3e9qtgvtts2ghk2uk%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York" style=" border-width:0 " width="500" height="250" frameborder="0" scrolling="no"></iframe>
 
 <hr />
-New: When you click on  
+<h3>Help Whit Davis just by shopping on Amazon!</h3>
+When you click on  
 <a href="http://www.amazon.com/b?_encoding=UTF8&site-redirect=&node=165793011&tag=whdapt-20&linkCode=ur2&camp=1789&creative=9325">this link</a>
 and complete a purchase on Amazon.com, a portion of the sale will go back to the PTO.  
 <a href="http://www.amazon.com/b?_encoding=UTF8&site-redirect=&node=165793011&tag=whdapt-20&linkCode=ur2&camp=1789&creative=9325">Shop Now on Amazon.com</a><img src="http://www.assoc-amazon.com/e/ir?t=whdapt-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
