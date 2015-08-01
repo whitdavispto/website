@@ -10,15 +10,19 @@ td {border: 1px solid black; padding: 4px;}
 <table cellpadding="0" cellspacing="0">
     <tr>
         <td>President</td>
-        <td>Dana Turner</td>
+        <td>Susan Huff</td>
     </tr>
     <tr>
         <td>President-Elect</td>
-        <td>Shannah Montgomery</td>
+        <td>Catherine Neace</td>
+    </tr>
+    <tr>
+        <td>Past President</td>
+        <td>Ani Fischer</td>
     </tr>
     <tr>
         <td>Treasurer</td>
-        <td>Mabel Jones</td>
+        <td>Tracy Shaw</td>
     </tr>
     <tr>
         <td>Vice-Treasurer</td>
@@ -26,7 +30,7 @@ td {border: 1px solid black; padding: 4px;}
     </tr>
     <tr>
         <td>Secretary</td>
-        <td>Janet Frick</td>
+        <td>Jody Graichen</td>
     </tr>
     <tr>
         <td>Staff Appreciation Co-Chairs</td>
@@ -65,12 +69,9 @@ td {border: 1px solid black; padding: 4px;}
         <td>Belinda Sperow</td>
     </tr>
     <tr>
-        <td>Parent Advisory Board Chair</td>
-        <td>Katie Miller</td>
-    </tr>
-    <tr>
-        <td>Webmaster</td>
-        <td>Brandon Checketts</td>
+        <td>Webmasters</td>
+        <td>Brian Whigham</td>
+        <td>Jeff Montgomery</td>
     </tr>
 </table>
 

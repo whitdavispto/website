@@ -17,37 +17,36 @@
         <div id="leftbar" class="sidebar">
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="fundraisers">Fundraisers</a>
+                <li><a href="fundraisers">Fundraisers
                     <ul>
                         <li>Coupon Books</li>
-                        <li>Jittery Joes Coffee</li>
                         <li>Square One Art</li>
                         <li>Spirit Wear</li>
                         <li>Free Money</li>
-                    </ul>
+                    </ul></a>
                 </li>
-                <li><a href="/committees">Committees</a>
+                <li><a href="/committees">Committees
                     <ul>
+                        <li>Chili Cook Off & Bingo Night</li>
                         <li>Coupon Book Sales</li>
                         <li>Fall Festival</li>
-                        <li>Special Events</li>
+                        <li>Room Parents</li>
                         <li>Staff Appreciation</li>
                         <li>Wildcat Walk</li>
-                        <li>Yearbook</li>
-                    </ul>
+                    </ul></a>
                 </li>
                 <li><a href="/budget">PTO Budget</a></li>
                 <li><a href="/minutes">PTO Minutes</a></li>
                 <li><a href="/partners-in-education">Partners in Education</a></li>
-                <li><a href="/parent-advisory-board">Parent Advisory Board</a></li>
             
                 <li><a href="/officers">Officers</a>
                     <ul id="officers">
-                        <li>President:          <br /><a href="#">Dana Turner</a></li>
-                        <li>President-Elect:    <br /><a href="#">Shannah Montgomery</a></li>
-                        <li>Treasurer:          <br /><a href="#">Mabel Jones</a></li>
+                        <li>President:          <br /><a href="#">Susan Huff</a></li>
+                        <li>President-Elect:    <br /><a href="#">Catherine Neace</a></li>
+                        <li>Past President:     <br /><a href="#">Ani Fischer</a></li>
+                        <li>Treasurer:          <br /><a href="#">Tracy Shaw</a></li>
                         <li>Vice-Treasurer:     <br /><a href="#">Stacie Norris</a></li>
-                        <li>Secretary:          <br /><a href="#">Janet Frick</a></li>
+                        <li>Secretary:          <br /><a href="#">Jody Graichen</a></li>
                     </ul>
                 </li>
             </ul>

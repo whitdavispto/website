@@ -5,6 +5,7 @@
         <div id="rightbar" class="sidebar">
     
             <ul>
+                <li><a href="mailto:whitdavispto@gmail.com">whitdavispto@gmail.com</a><br /></li>
                 <li><a target="_blank" href="http://www.facebook.com/group.php?gid=41693741747&ref=ts"><img src="/img/facebook_icon.png" width="149" height="65" border="0"></a><br /></li>
                 <li><a target="_blank" href="http://groups.yahoo.com/group/whitdavispto/">Yahoo Group</a></li>
                 <li><a href="/calendar">PTO Calendar of Events</a></li>
@@ -14,16 +15,16 @@
     
     
             <h3>PTO Meetings</h3>
-            <p>PTO meetings are held every 2nd Tuesday of the month at 6:00 pm in the Media Center.</p>
+            <p>PTO meetings are held every 2nd Tuesday of the month at 6:00 pm in the Cafeteria.</p>
             <p>Babysitting is provided.</p>
     
             <h3>Our next meeting is
-                September 11th</h3>
+                August 18th 2015</h3>
             
             <p>Future Meetings are:</p>
             <ul class="indented">
-                <li>April 9th 2013</li>
-                <li>May 7th 2013</li>
+                <li>September 8th 2015</li>
+                <li>October 13th 2015</li>
             </ul>
         </div>
     </div>
@@ -32,8 +33,7 @@
 
 
 <div id="footer">
-    Website maintained by Brandon Checketts
+    Website maintained by Brian Whigham and hosted by RoundSphere, LLC
 </div>
 </body>
 </html>
-

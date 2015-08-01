@@ -12,11 +12,6 @@ include 'header.php';
 
 <hr />
 
-<h3>Jittery Joes Coffee</h3>
-<p>Jittery Joes Coffee is on sale in the office for $10.
-
-<hr />
-
 
 <img src="/img/fundraisers/u54_ceramic_tile1.jpg" width="150" height="142" style="float:right;" />
 <h3>Square 1 Art</h3>
