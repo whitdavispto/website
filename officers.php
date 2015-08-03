@@ -25,10 +25,6 @@ td {border: 1px solid black; padding: 4px;}
         <td>Tracy Shaw</td>
     </tr>
     <tr>
-        <td>Vice-Treasurer</td>
-        <td>Stacie Norris</td>
-    </tr>
-    <tr>
         <td>Secretary</td>
         <td>Jody Graichen</td>
     </tr>

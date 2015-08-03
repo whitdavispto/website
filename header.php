@@ -45,7 +45,6 @@
                         <li>President-Elect:    <br /><a href="#">Catherine Neace</a></li>
                         <li>Past President:     <br /><a href="#">Ani Fischer</a></li>
                         <li>Treasurer:          <br /><a href="#">Tracy Shaw</a></li>
-                        <li>Vice-Treasurer:     <br /><a href="#">Stacie Norris</a></li>
                         <li>Secretary:          <br /><a href="#">Jody Graichen</a></li>
                     </ul>
                 </li>
